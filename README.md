@@ -8,5 +8,7 @@ git commit -m "Add <filename.extension> and ..."
 
 git push origin main
 
+---
+
 Additional text to add to README file from my text editor.
 (Changes made on local and pushed to public repos)
